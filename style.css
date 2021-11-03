@@ -26,7 +26,8 @@ html, body {
 }
 .colors p {
     width: 250px;
-    height: 50px;
+    height: 100px;
+    box-sizing: border-box;
     color: black;
     text-align: center;
     font-family: "Nunito Sans";
@@ -39,6 +40,7 @@ html, body {
     display: inline-block;
     width: 450px;
     padding: auto;
+    box-sizing: border-box;
 }
 
 
