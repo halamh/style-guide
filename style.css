@@ -1,0 +1,101 @@
+
+html, body {
+    margin: auto 60px;
+}
+.colors {
+    border: 2px solid gray;
+    padding: 10px 10px;
+    margin: 10px 0;
+    width: 95%;
+}
+.fonts {
+    border: 2px solid gray;
+    width: 95%;
+    padding: 10px 10px;
+    margin: 10px 0;
+}
+.text-styles {
+    border: 2px solid gray;
+    width: 95%;
+    padding: 10px 10px;
+    margin: 10px 0;
+}
+.colors p {
+    width: 200px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    font-family: "Nunito Sans";
+    font-weight: 600;
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 20px 20px;
+}
+.font {
+    display: inline-block;
+    width: 450px;
+    padding: auto;
+}
+
+* {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+}
+h1 {
+    font-weight: 600;
+}
+h2 {
+    font-weight: bold;
+}
+#blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+#pink {
+    background-color: #d957d9;
+}
+#green {
+    background-color: #4fe0b0;
+}
+#beige {
+    background-color: #efd9ca;
+}
+#font1 {
+    font-family: "Source Code Pro";
+    font-weight: 300;
+}
+#font2 {
+    font-family: "Source Code Pro";
+    font-weight: 400;
+}
+#font3 {
+    font-family: "Source Code Pro";
+    font-weight: 300;
+    font-style: italic;
+}
+#font4 {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+}
+#font5 {
+    font-family: "Nunito Sans";
+    font-weight: 600;
+}
+#font6 {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+    font-style: italic;
+}
+#font7 {
+    font-family: "Poppins";
+    font-weight: 200;
+}
+#font8 {
+    font-family: "Nunito Sans";
+    font-weight: 400;
+}
+#font9 {
+    font-family: "Nunito Sans";
+    font-weight: 200;
+    font-style: italic;
+}
